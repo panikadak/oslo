@@ -1,0 +1,1 @@
+(function(){class e extends THREE.Reflector{constructor(e,t){super(e,t),this.geometry.setDrawRange(0,0)}}THREE.ReflectorRTT=e})();
