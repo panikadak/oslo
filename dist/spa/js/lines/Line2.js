@@ -1,1 +1,0 @@
-(function(){class e extends THREE.LineSegments2{constructor(e=new THREE.LineGeometry,n=new THREE.LineMaterial({color:16777215*Math.random()})){super(e,n),this.type="Line2"}}e.prototype.isLine2=!0,THREE.Line2=e})();

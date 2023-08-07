@@ -1,1 +1,0 @@
-(function(){class e extends THREE.LineSegmentsGeometry{constructor(e){super(),this.type="WireframeGeometry2",this.fromWireframeGeometry(new THREE.WireframeGeometry(e))}}e.prototype.isWireframeGeometry2=!0,THREE.WireframeGeometry2=e})();
