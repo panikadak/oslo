@@ -1,6 +1,6 @@
 # OSLO (oslo)
 
-Outer Space Labor Office is a cutting-edge, real-time web3 sci-fi game that immerses participants in Mars colonization.
+Outer Space Labor Office's website.
 
 ## Install the dependencies
 ```bash
