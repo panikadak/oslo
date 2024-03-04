@@ -1,10 +1,15 @@
 {
-  "name": "oslo",
-  "version": "0.0.1",
+  "name": "osloweb3game",
+  "version": "0.1.6",
   "description": "Outer Space Labor Office is a cutting-edge, real-time web3 sci-fi game that immerses participants in Mars colonization.",
-  "productName": "OSLO",
-  "author": "OSLO <hello@outerspacelabouroffice.com>",
-  "private": true,
+  "productName": "Outer Space Labor Office",
+  "author": "panikadak <hello@outerspacelabouroffice.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panikadak/oslo"
+  },
+  "homepage": "https://oslo.red",
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
@@ -13,6 +18,8 @@
     "@quasar/extras": "^1.15.0",
     "axios": "^0.21.1",
     "core-js": "^3.24.1",
+    "dappwalletconnectoor": "^0.7.1",
+    "osloweb3game": "^0.0.1",
     "quasar": "^1.19.4",
     "three": "^0.140.2",
     "vue-drag-resize": "^1.5.4",
